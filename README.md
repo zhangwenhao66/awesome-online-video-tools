@@ -6,6 +6,7 @@ awesome-online-video-tools
 A curated list of useful online tools for downloading and converting videos.
 
 ## Video Downloaders
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 - Download videos from TikTok, Instagram, Facebook, and Twitter
 - No installation required
 - Works on desktop and mobile
